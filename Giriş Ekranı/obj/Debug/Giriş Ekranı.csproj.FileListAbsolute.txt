@@ -1,0 +1,130 @@
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Giriş Ekranı.exe.config
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Giriş Ekranı.exe
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Giriş Ekranı.pdb
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.AssemblyReference.cache
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Form1.resources
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Properties.Resources.resources
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.GenerateResource.cache
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.exe
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.pdb
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Form2.resources
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\jose-jwt.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Collections.Immutable.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Collections.Immutable.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.CopyComplete
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Memory.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Memory.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\BADEL MAY\source\repos\Giriş Ekranı\Giriş Ekranı\obj\Debug\Giriş Ekranı.exe.config
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Giriş Ekranı.exe.config
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Giriş Ekranı.exe
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Giriş Ekranı.pdb
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\jose-jwt.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Collections.Immutable.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Memory.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Collections.Immutable.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Memory.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.AssemblyReference.cache
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.SuggestedBindingRedirects.cache
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.exe.config
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Form1.resources
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Form2.resources
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş_Ekranı.Properties.Resources.resources
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.GenerateResource.cache
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.csproj.CopyComplete
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.exe
+C:\Users\BADEL MAY\OneDrive\Masaüstü\chat projesi\Giriş Ekranı\obj\Debug\Giriş Ekranı.pdb
